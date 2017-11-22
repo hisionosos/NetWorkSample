@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         });
 
-        String str = "sss" + "ddf";
+        String str = "sss" + "ddftttttttttttttttt";
         str.charAt(0);
         Vector<String> v = new Vector<>();
         System.out.println();
