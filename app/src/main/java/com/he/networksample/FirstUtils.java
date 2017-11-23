@@ -16,10 +16,5 @@ public class FirstUtils {
         return age;
     }
 
-    @Override
-    public String toString() {
-        return "FirstUtils{" +
-                "age=" + age +
-                '}';
-    }
+
 }
